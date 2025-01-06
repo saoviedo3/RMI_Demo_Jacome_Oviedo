@@ -1,0 +1,4 @@
+com\mycompany\serverrmi\cliente\ClientRMI.class
+com\mycompany\serverrmi\IHelloService.class
+com\mycompany\serverrmi\HelloServiceImpl.class
+com\mycompany\serverrmi\ServerRMI.class
